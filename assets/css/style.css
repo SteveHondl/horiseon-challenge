@@ -46,6 +46,10 @@ a {
     text-decoration: none;
 }
 
+figcaption {
+    font-size: 16px;
+}
+
 p {
     font-size: 16px;
 }
