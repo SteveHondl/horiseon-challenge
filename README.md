@@ -6,6 +6,7 @@ As an aspiring web developer, this project has given me a small sample size work
 
 I've learned, through much trial and error, how to improve the functionality of the CSS, specificly writing CSS code to group multiple elements in the same class.
 
+**[Link to website](https://stevehondl.github.io/horiseon-challenge/)**
+
 ![Horiseon Screenshot](./horiseon-screenshot.png?raw=true "Horiseon Screenshot")
 
-**[Horiseon](https://stevehondl.github.io/horiseon-challenge/)**
